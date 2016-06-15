@@ -1,0 +1,19 @@
+{
+  "name": "@socialkardia/processor",
+  "version": "1.0.0",
+  "description": "The transformation service layer for socialkardia",
+  "main": "tmp/source/index.js",
+  "scripts": {
+    "test": "mocha --compilers js:babel-register source/**/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socialkardia/processor.js.git"
+  },
+  "author": "Kurtis Rainbolt-Greene (@krainboltgreene) <me@kurtisrainboltgreene.name>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/socialkardia/processor.js/issues"
+  },
+  "homepage": "https://github.com/socialkardia/processor.js#readme"
+}
